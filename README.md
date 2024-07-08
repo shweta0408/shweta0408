@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **JAVASCRIPT , TYPESCRIPT , AI/ML**
 
-- 🌱 I’m currently expert in **React.js,Node.js**
+- 🌱 I’m expert in **React.js,Node.js**
 
 - 👯 I’m looking to collaborate on **Frontend roles, Backend roles, Full-Stack MERN and AI/ML roles**
 
