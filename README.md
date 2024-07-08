@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/meshweta0408" target="blank"><img src="https://img.shields.io/twitter/follow/meshweta0408?logo=twitter&style=for-the-badge" alt="meshweta0408" /></a> </p>
 
-- 🔭 I’m currently working on **JAVASCRIPT**
+- 🔭 I’m currently working on **JAVASCRIPT , TYPESCRIPT , AI/ML**
 
-- 🌱 I’m currently learning **React.js,Node.js**
+- 🌱 I’m currently expert in **React.js,Node.js**
 
-- 👯 I’m looking to collaborate on **Frontend roles**
+- 👯 I’m looking to collaborate on **Frontend roles, Backend roles, Full-Stack MERN and AI/ML roles**
 
-- 💬 Ask me about **Javascript,React.js,Node.js**
+- 💬 Ask me about **Javascript,React.js,Node.js, Typescript, Html, CSS, Tailwind-CSS**
 
 - 📫 How to reach me **shmis2004@gmail.com**
 
