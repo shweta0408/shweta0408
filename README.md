@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shweta0408" alt="shweta0408" /></a> </p>
 
-<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/meshweta0408?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="" target="blank"><img src="" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **JAVASCRIPT , TYPESCRIPT , AI/ML**
 
