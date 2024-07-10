@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Javascript,React.js,Node.js, Typescript, Html, CSS, Tailwind-CSS**
 
-- 📫 How to reach me **shmis2004@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
