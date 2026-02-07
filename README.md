@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shweta Mishra</h1>
-<h3 align="center">A passionate developer from Milky way Galaxy</h3>
+<h3 align="center">A passionate engineer from Milky way Galaxy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shweta0408&label=Profile%20views&color=0e75b6&style=flat" alt="shweta0408" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="" target="blank"><img src="" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **JAVASCRIPT , TYPESCRIPT , AI/ML**
+- 🔭 I’m currently working on **MACHINE LEARNING, DATA SCIENCE , PYTHON , JAVASCRIPT , TYPESCRIPT , AI/ML**
 
 - 🌱 I’m expert in **React.js,Node.js**
 
 - 👯 I’m looking to collaborate on **Frontend roles, Backend roles, Full-Stack MERN and AI/ML roles**
 
-- 💬 Ask me about **Javascript,React.js,Node.js, Typescript, Html, CSS, Tailwind-CSS**
+- 💬 Ask me about **ML, Applied Data Science, Javascript,React.js,Node.js, Typescript, Html, CSS, Tailwind-CSS**
 
 
 
