@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **MACHINE LEARNING, DATA SCIENCE , PYTHON , JAVASCRIPT , TYPESCRIPT , AI/ML**
 
-- 🌱 I’m expert in **React.js,Node.js**
+- 🌱 I’m expert in **Data Science, ETL, React.js,Node.js**
 
-- 👯 I’m looking to collaborate on **Frontend roles, Backend roles, Full-Stack MERN and AI/ML roles**
+- 👯 I’m looking to collaborate on **Data Science, Data Engineering, Frontend roles, Backend roles, Full-Stack MERN and AI/ML roles**
 
 - 💬 Ask me about **ML, Applied Data Science, Javascript,React.js,Node.js, Typescript, Html, CSS, Tailwind-CSS**
 
